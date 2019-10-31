@@ -230,6 +230,7 @@ strong {
   background-color: #00aaef;
   color: white;
   cursor: pointer;
+  border: none;
   padding: 19px 62px;
   -webkit-transition: background-color 0.2s;
   transition: background-color 0.2s;
@@ -287,7 +288,8 @@ strong {
   background-color: #eee;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  line-height: 1; }
+  line-height: 1;
+  border: none; }
   .input::-webkit-input-placeholder {
     color: inherit; }
   .input::-moz-placeholder {
